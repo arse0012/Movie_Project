@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+    "mongodb+srv://Javascriptintern:Javascriptintern123@cluster0.rqpx2.mongodb.net/test?retryWrites=true&w=majority"
+}
